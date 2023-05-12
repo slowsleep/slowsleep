@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=slowsleep&color=blueviolet)
+
+---
+
+My stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=slowsleep&theme=monokai)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slowsleep&show_icons=true&theme=monokai)
